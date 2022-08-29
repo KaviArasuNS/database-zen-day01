@@ -176,7 +176,6 @@ db.zenproducts.insertMany([
   },
 ]);
 
-db.zenproducts.find({}).pretty();
 
 // 1. Find all the information about each products
 db.zenproducts.find({}).pretty();
